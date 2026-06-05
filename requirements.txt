@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+smolagents
+huggingface_hub
+python-dotenv
+pydub
+librosa
+numpy
+soundfile
+requests
+pillow
